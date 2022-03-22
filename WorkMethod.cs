@@ -12,5 +12,10 @@ public class Class1
         {
 			return x * x;
 		}
+
+		public double Stepen2(double x)
+		{
+			return x * x * x;
+		}
 	}
 }
